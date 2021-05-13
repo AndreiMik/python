@@ -1,0 +1,4 @@
+Firsname Lastname Personal_ID
+Dima Ivanov 23.10.89-432F
+Petr Sidorov 15.01.87-132A
+Semen Petrov 03.07.88-232L
